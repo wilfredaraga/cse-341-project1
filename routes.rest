@@ -1,0 +1,4 @@
+GET http://localhost:3000/users
+
+## Get single contact
+GET http://localhost:3000/users/67900cf7cb7b3a7172b265de
